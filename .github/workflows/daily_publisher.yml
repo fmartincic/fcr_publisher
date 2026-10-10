@@ -1,0 +1,62 @@
+name: Daily Facebook Publisher
+
+on:
+  schedule:
+    # Runs daily at 13:00 UTC (9:00 AM Eastern Time)
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Simulate without posting to Facebook'
+        required: false
+        type: boolean
+        default: false
+
+concurrency:
+  group: publish-to-fb
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: Publish Daily Articles
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Tests
+        run: |
+          python -m unittest discover tests
+
+      - name: Run Publisher
+        env:
+          FCR_PAGE_ID: ${{ secrets.FCR_PAGE_ID }}
+          FCR_PAGE_ACCESS_TOKEN: ${{ secrets.FCR_PAGE_ACCESS_TOKEN }}
+          FIC_PAGE_ID: ${{ secrets.FIC_PAGE_ID }}
+          FIC_PAGE_ACCESS_TOKEN: ${{ secrets.FIC_PAGE_ACCESS_TOKEN }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: |
+          python publish_to_fb.py
+
+      - name: Commit and Push History Updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain posted_history.json)" ]; then
+            git add posted_history.json
+            git commit -m "chore: update posted_history.json [skip ci]"
+            git push origin main
+            echo "✅ Successfully recorded and pushed new publication history."
+          else
+            echo "ℹ️ No history changes to commit."
+          fi
