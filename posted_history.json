@@ -1,4 +1,26 @@
 {
-  "posted_articles": [],
-  "last_post_date": {}
+  "posted_articles": [
+    {
+      "site": "Full Coffee Roast",
+      "title": "How To Make Fun Coffee Drinks At Home? 4 Interesting Recipes",
+      "url": "https://www.fullcoffeeroast.com/how-to-make-fun-coffee-drinks-at-home/",
+      "guid": "https://www.fullcoffeeroast.com/?p=44331",
+      "posted_at": "2026-10-10T17:26:21.810879",
+      "post_id": "103230134934176_1422145473426060",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "What Is The Best Coffee For Chemex Coffee Maker?",
+      "url": "https://www.fluentincoffee.com/best-coffee-for-chemex/",
+      "guid": "http://fluent.onpressidium.com/?p=1505577",
+      "posted_at": "2026-10-10T17:26:21.810879",
+      "post_id": "102789815016785_1735071108625666",
+      "post_type": "automated"
+    }
+  ],
+  "last_post_date": {
+    "Full Coffee Roast": "2026-10-10",
+    "Fluent In Coffee": "2026-10-10"
+  }
 }
