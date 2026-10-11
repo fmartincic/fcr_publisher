@@ -2,7 +2,7 @@
 
 Automated daily Facebook page publisher for **Full Coffee Roast** and **Fluent In Coffee**.
 
-This repository runs a zero-dependency Python script via **GitHub Actions** on a fixed daily schedule (9:00 AM ET / 13:00 UTC) at **$0 recurring cost**. It tracks published articles in `posted_history.json` and automatically commits updates back to the repository so articles are never duplicated.
+This repository runs a zero-dependency Python script via **GitHub Actions** on a fixed daily schedule (9:15 AM ET / 13:15 UTC) at **$0 recurring cost**. It tracks published articles in `posted_history.json` and automatically commits updates back to the repository so articles are never duplicated.
 
 ---
 
@@ -17,7 +17,7 @@ This repository runs a zero-dependency Python script via **GitHub Actions** on a
 
 ## ⚙️ How It Works
 
-1. **Daily Trigger:** GitHub Actions runs `.github/workflows/daily_publisher.yml` daily at `13:00 UTC` (9:00 AM Eastern Time).
+1. **Daily Trigger:** GitHub Actions runs `.github/workflows/daily_publisher.yml` daily at `13:15 UTC` (9:15 AM Eastern Time / 6:15 AM Pacific Time).
 2. **Article Discovery:** Fetches the latest articles from RSS feeds. If candidate count is low, discovers older unposted articles from WordPress REST API archives.
 3. **Deduplication:** Checks against `posted_history.json` (GUID and URL) to ensure only unpublished articles are selected.
 4. **Publishing:** Formats post preview and publishes directly to Facebook Pages via Meta Graph API v20.0.
