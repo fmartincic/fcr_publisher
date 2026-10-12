@@ -53,10 +53,28 @@
       "posted_at": "2026-10-11T17:48:55.999935",
       "post_id": "102789815016785_1736212765178167",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Can You Reuse Chemex Filters?",
+      "url": "https://www.fullcoffeeroast.com/reuse-chemex-filters/",
+      "guid": "https://www.fullcoffeeroast.com/?p=1498",
+      "posted_at": "2026-10-12T21:43:10.926359",
+      "post_id": "103230134934176_1424225369884737",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Best Coffee For Moka Pot: 13 Top Picks",
+      "url": "https://www.fluentincoffee.com/best-coffee-for-moka-pot/",
+      "guid": "http://fluent.onpressidium.com/?p=2506514",
+      "posted_at": "2026-10-12T21:43:10.926359",
+      "post_id": "102789815016785_1737561925043251",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-11",
-    "Fluent In Coffee": "2026-10-11"
+    "Full Coffee Roast": "2026-10-12",
+    "Fluent In Coffee": "2026-10-12"
   }
 }
