@@ -71,10 +71,28 @@
       "posted_at": "2026-10-12T21:43:10.926359",
       "post_id": "102789815016785_1737561925043251",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "How Long Does Coffee Last?",
+      "url": "https://www.fullcoffeeroast.com/how-long-does-coffee-last/",
+      "guid": "https://www.fullcoffeeroast.com/?p=16527",
+      "posted_at": "2026-10-13T19:51:20.600340",
+      "post_id": "103230134934176_1425130846460856",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "James Hoffmann AeroPress Method \u2014 What He Actually Does",
+      "url": "https://www.fluentincoffee.com/james-hoffmann-aeropress-method-what-he-actually-does/",
+      "guid": "https://www.fluentincoffee.com/?p=5034280",
+      "posted_at": "2026-10-13T19:51:20.600340",
+      "post_id": "102789815016785_1738597458273031",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-12",
-    "Fluent In Coffee": "2026-10-12"
+    "Full Coffee Roast": "2026-10-13",
+    "Fluent In Coffee": "2026-10-13"
   }
 }
