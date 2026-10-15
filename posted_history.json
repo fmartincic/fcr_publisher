@@ -107,10 +107,28 @@
       "posted_at": "2026-10-14T17:58:56.724638",
       "post_id": "102789815016785_1739644111501699",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "How to Clean a Baratza Encore: 10-Minute Maintenance Guide",
+      "url": "https://www.fullcoffeeroast.com/how-to-clean-a-baratza-encore-10-minute-maintenance-guide/",
+      "guid": "https://www.fullcoffeeroast.com/?p=163986",
+      "posted_at": "2026-10-15T17:45:19.408223",
+      "post_id": "103230134934176_1426990256274915",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Macchiato Vs Frappuccino: What\u2019s The Big Difference?",
+      "url": "https://www.fluentincoffee.com/macchiato-vs-frappuccino/",
+      "guid": "http://fluent.onpressidium.com/?p=1503596",
+      "posted_at": "2026-10-15T17:45:19.408223",
+      "post_id": "102789815016785_1740728938059883",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-14",
-    "Fluent In Coffee": "2026-10-14"
+    "Full Coffee Roast": "2026-10-15",
+    "Fluent In Coffee": "2026-10-15"
   }
 }
