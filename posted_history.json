@@ -143,10 +143,28 @@
       "posted_at": "2026-10-16T17:22:50.953805",
       "post_id": "102789815016785_1741771774622266",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "7 Best Coffee Addict Memes All Coffee Lovers Can Relate To",
+      "url": "https://www.fullcoffeeroast.com/coffee-addict-memes/",
+      "guid": "https://www.fullcoffeeroast.com/?p=109205",
+      "posted_at": "2026-10-17T16:22:54.494620",
+      "post_id": "103230134934176_1428796809427593",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Can Nespresso Make Hot Water? Unveiling Essential Insights",
+      "url": "https://www.fluentincoffee.com/can-nespresso-make-hot-water/",
+      "guid": "http://fluent.onpressidium.com/?p=4010788",
+      "posted_at": "2026-10-17T16:22:54.494620",
+      "post_id": "102789815016785_1742811127851664",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-16",
-    "Fluent In Coffee": "2026-10-16"
+    "Full Coffee Roast": "2026-10-17",
+    "Fluent In Coffee": "2026-10-17"
   }
 }
