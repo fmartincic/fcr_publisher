@@ -161,10 +161,28 @@
       "posted_at": "2026-10-17T16:22:54.494620",
       "post_id": "102789815016785_1742811127851664",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "10 Kenya Coffee Facts Every Coffee Lover Should Know",
+      "url": "https://www.fullcoffeeroast.com/kenya-coffee-facts/",
+      "guid": "https://www.fullcoffeeroast.com/?p=149972",
+      "posted_at": "2026-10-18T16:30:24.813060",
+      "post_id": "103230134934176_1429733426000598",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Lifeboost Coffee Review: Is It Worth It?",
+      "url": "https://www.fluentincoffee.com/lifeboost-coffee-review/",
+      "guid": "http://fluent.onpressidium.com/?p=2507745",
+      "posted_at": "2026-10-18T16:30:24.813060",
+      "post_id": "102789815016785_1743890761077034",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-17",
-    "Fluent In Coffee": "2026-10-17"
+    "Full Coffee Roast": "2026-10-18",
+    "Fluent In Coffee": "2026-10-18"
   }
 }
