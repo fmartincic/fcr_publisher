@@ -215,10 +215,28 @@
       "posted_at": "2026-10-20T17:57:35.146012",
       "post_id": "102789815016785_1746109307521846",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Latte Macchiato Vs. Cappuccino: What Are The Differences?",
+      "url": "https://www.fullcoffeeroast.com/latte-macchiato-vs-cappuccino/",
+      "guid": "https://www.fullcoffeeroast.com/?p=46488",
+      "posted_at": "2026-10-21T18:00:10.201314",
+      "post_id": "103230134934176_1432624259044848",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "11 Best Coffee Machine Brands",
+      "url": "https://www.fluentincoffee.com/best-coffee-machine-brands/",
+      "guid": "http://fluent.onpressidium.com/?p=3010146",
+      "posted_at": "2026-10-21T18:00:10.201314",
+      "post_id": "102789815016785_1747165397416237",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-20",
-    "Fluent In Coffee": "2026-10-20"
+    "Full Coffee Roast": "2026-10-21",
+    "Fluent In Coffee": "2026-10-21"
   }
 }
