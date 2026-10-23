@@ -251,10 +251,28 @@
       "posted_at": "2026-10-22T17:57:26.400134",
       "post_id": "102789815016785_1748234973975946",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Spotify Playlists That Define Coffee Shop Vibes",
+      "url": "https://www.fullcoffeeroast.com/spotify-playlists-that-define-coffee-shop-vibes/",
+      "guid": "https://www.fullcoffeeroast.com/?p=165646",
+      "posted_at": "2026-10-23T17:51:44.956375",
+      "post_id": "103230134934176_1434466815527259",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Tasting Component Of Coffee (5 Remarkable Elements)",
+      "url": "https://www.fluentincoffee.com/tasting-component-of-coffee/",
+      "guid": "http://fluent.onpressidium.com/?p=2507112",
+      "posted_at": "2026-10-23T17:51:44.956375",
+      "post_id": "102789815016785_1749323483867095",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-22",
-    "Fluent In Coffee": "2026-10-22"
+    "Full Coffee Roast": "2026-10-23",
+    "Fluent In Coffee": "2026-10-23"
   }
 }
