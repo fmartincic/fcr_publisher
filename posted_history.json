@@ -269,10 +269,28 @@
       "posted_at": "2026-10-23T17:51:44.956375",
       "post_id": "102789815016785_1749323483867095",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "7 Best African Countries for Coffee",
+      "url": "https://www.fullcoffeeroast.com/best-african-countries-for-coffee/",
+      "guid": "https://www.fullcoffeeroast.com/?p=59173",
+      "posted_at": "2026-10-24T16:33:59.433293",
+      "post_id": "103230134934176_1435376752102932",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Nespresso Leaking Water: Causes and Easy Fixes",
+      "url": "https://www.fluentincoffee.com/nespresso-leaking-water/",
+      "guid": "https://www.fluentincoffee.com/nespresso-leaking-water/",
+      "posted_at": "2026-10-24T16:33:59.433293",
+      "post_id": "102789815016785_1750307160435394",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-23",
-    "Fluent In Coffee": "2026-10-23"
+    "Full Coffee Roast": "2026-10-24",
+    "Fluent In Coffee": "2026-10-24"
   }
 }
