@@ -2,8 +2,8 @@ name: Daily Facebook Publisher
 
 on:
   schedule:
-    # Runs daily at 13:15 UTC (9:15 AM Eastern / 6:15 AM Pacific)
-    - cron: '15 13 * * *'
+    # Runs 3x daily at Midnight, 8:00 AM, and 4:00 PM UTC
+    - cron: '0 0,8,16 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
