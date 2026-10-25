@@ -287,10 +287,28 @@
       "posted_at": "2026-10-24T16:33:59.433293",
       "post_id": "102789815016785_1750307160435394",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "How To Reheat Coffee in Coffee Maker: Step-by-Step Guide",
+      "url": "https://www.fullcoffeeroast.com/reheat-coffee-in-coffee-maker/",
+      "guid": "https://www.fullcoffeeroast.com/?p=136161",
+      "posted_at": "2026-10-25T02:12:37.391824",
+      "post_id": "103230134934176_1435725735401367",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Best Caffeine Free Starbucks Drinks: Top 17 Picks",
+      "url": "https://www.fluentincoffee.com/caffeine-free-starbucks-drinks/",
+      "guid": "http://fluent.onpressidium.com/?p=1504933",
+      "posted_at": "2026-10-25T02:12:37.391824",
+      "post_id": "102789815016785_1750716600394450",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-24",
-    "Fluent In Coffee": "2026-10-24"
+    "Full Coffee Roast": "2026-10-25",
+    "Fluent In Coffee": "2026-10-25"
   }
 }
