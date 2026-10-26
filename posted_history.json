@@ -341,10 +341,28 @@
       "posted_at": "2026-10-25T18:36:48.247138",
       "post_id": "102789815016785_1751500040316106",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "10 Best British Tea Brands in 2026: UK Favorites Compared",
+      "url": "https://www.fullcoffeeroast.com/best-british-tea-brands/",
+      "guid": "https://www.fullcoffeeroast.com/?p=52963",
+      "posted_at": "2026-10-26T02:13:00.959264",
+      "post_id": "103230134934176_1436689331971674",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Nespresso Evoluo Vs Vertuo: Which Model Is Better?",
+      "url": "https://www.fluentincoffee.com/nespresso-evoluo-vs-vertuo/",
+      "guid": "http://fluent.onpressidium.com/?p=1504202",
+      "posted_at": "2026-10-26T02:13:00.959264",
+      "post_id": "102789815016785_1751811626951614",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-25",
-    "Fluent In Coffee": "2026-10-25"
+    "Full Coffee Roast": "2026-10-26",
+    "Fluent In Coffee": "2026-10-26"
   }
 }
