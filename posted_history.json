@@ -395,10 +395,28 @@
       "posted_at": "2026-10-26T20:48:22.641233",
       "post_id": "102789815016785_1752684573530986",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Is Quitting Coffee Worth It? 5 Benefits Of Drinking Coffee And 3 Coffee Alternatives",
+      "url": "https://www.fullcoffeeroast.com/is-quitting-coffee-worth-it/",
+      "guid": "https://www.fullcoffeeroast.com/?p=48894",
+      "posted_at": "2026-10-27T02:49:35.635335",
+      "post_id": "103230134934176_1437658501874757",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "How To Make Coffee Without A Filter \u2013 7 Great Methods",
+      "url": "https://www.fluentincoffee.com/how-to-make-coffee-without-a-filter/",
+      "guid": "http://fluent.onpressidium.com/?p=1410",
+      "posted_at": "2026-10-27T02:49:35.635335",
+      "post_id": "102789815016785_1752958406836936",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-26",
-    "Fluent In Coffee": "2026-10-26"
+    "Full Coffee Roast": "2026-10-27",
+    "Fluent In Coffee": "2026-10-27"
   }
 }
