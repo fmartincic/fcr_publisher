@@ -449,10 +449,28 @@
       "posted_at": "2026-10-27T20:18:27.510030",
       "post_id": "102789815016785_1753930086739768",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "How to Make Tea with a Fellow Stagg EKG Pro: Temperature and Setup",
+      "url": "https://www.fullcoffeeroast.com/how-to-make-tea-with-a-fellow-stagg-ekg-pro-temperature-and-setup/",
+      "guid": "https://www.fullcoffeeroast.com/?p=165969",
+      "posted_at": "2026-10-28T02:57:27.622726",
+      "post_id": "103230134934176_1438648965109044",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "How To Make Coffee With Whole Beans? (No Grinding)",
+      "url": "https://www.fluentincoffee.com/how-to-make-coffee-with-whole-beans/",
+      "guid": "http://fluent.onpressidium.com/?p=2508002",
+      "posted_at": "2026-10-28T02:57:27.622726",
+      "post_id": "102789815016785_1754282183371225",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-27",
-    "Fluent In Coffee": "2026-10-27"
+    "Full Coffee Roast": "2026-10-28",
+    "Fluent In Coffee": "2026-10-28"
   }
 }
