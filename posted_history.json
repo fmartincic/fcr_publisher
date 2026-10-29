@@ -503,10 +503,28 @@
       "posted_at": "2026-10-28T20:40:28.304418",
       "post_id": "102789815016785_1755218056610971",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Is There Any Coffee Without Caffeine? 5 Great Caffeine-Free Alternatives",
+      "url": "https://www.fullcoffeeroast.com/is-there-any-coffee-without-caffeine/",
+      "guid": "https://www.fullcoffeeroast.com/?p=47142",
+      "posted_at": "2026-10-29T03:23:38.176649",
+      "post_id": "103230134934176_1439675911673016",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Should You Drink Coffee After A Workout? All You Need To Know",
+      "url": "https://www.fluentincoffee.com/coffee-after-workout/",
+      "guid": "http://fluent.onpressidium.com/?p=2507914",
+      "posted_at": "2026-10-29T03:23:38.176649",
+      "post_id": "102789815016785_1755527733246670",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-28",
-    "Fluent In Coffee": "2026-10-28"
+    "Full Coffee Roast": "2026-10-29",
+    "Fluent In Coffee": "2026-10-29"
   }
 }
