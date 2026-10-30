@@ -557,10 +557,28 @@
       "posted_at": "2026-10-29T20:43:59.352886",
       "post_id": "102789815016785_1756466579819452",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Where Is Lifeboost Coffee Grown?",
+      "url": "https://www.fullcoffeeroast.com/where-is-lifeboost-coffee-grown/",
+      "guid": "https://www.fullcoffeeroast.com/?p=65182",
+      "posted_at": "2026-10-30T03:25:25.086985",
+      "post_id": "103230134934176_1440699074904033",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "What Is Bosnian Coffee? Unveiling Its Unique Delights",
+      "url": "https://www.fluentincoffee.com/what-is-bosnian-coffee/",
+      "guid": "http://52.23.101.202/?p=5017830",
+      "posted_at": "2026-10-30T03:25:25.086985",
+      "post_id": "102789815016785_1756765506456226",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-29",
-    "Fluent In Coffee": "2026-10-29"
+    "Full Coffee Roast": "2026-10-30",
+    "Fluent In Coffee": "2026-10-30"
   }
 }
