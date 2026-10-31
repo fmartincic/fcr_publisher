@@ -611,10 +611,28 @@
       "posted_at": "2026-10-30T20:15:22.403590",
       "post_id": "102789815016785_1757635413035902",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Javvy Coffee: I Spilled My First Batch and Almost Vibrated Out of My Skin",
+      "url": "https://www.fullcoffeeroast.com/javvy-coffee-i-spilled-my-first-batch-and-almost-vibrated-out-of-my-skin/",
+      "guid": "https://www.fullcoffeeroast.com/?p=164595",
+      "posted_at": "2026-10-31T03:10:20.922795",
+      "post_id": "103230134934176_1441681621472445",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "What Is Coffee With Chicory? Answered",
+      "url": "https://www.fluentincoffee.com/what-is-coffee-with-chicory/",
+      "guid": "http://52.23.101.202/?p=5018973",
+      "posted_at": "2026-10-31T03:10:20.922795",
+      "post_id": "102789815016785_1757938953005548",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-10-30",
-    "Fluent In Coffee": "2026-10-30"
+    "Full Coffee Roast": "2026-10-31",
+    "Fluent In Coffee": "2026-10-31"
   }
 }
