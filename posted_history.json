@@ -755,10 +755,28 @@
       "posted_at": "2026-11-02T17:32:51.827258",
       "post_id": "102789815016785_1761048289361281",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "15 Best Asian Coffee Brands To Tickle Your Taste Buds",
+      "url": "https://www.fullcoffeeroast.com/best-asian-coffee-brands/",
+      "guid": "https://www.fullcoffeeroast.com/?p=156291",
+      "posted_at": "2026-11-03T04:29:23.193493",
+      "post_id": "103230134934176_1444678054506135",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Where Is My Keurig Serial Number? Check These Model-Specific Locations",
+      "url": "https://www.fluentincoffee.com/where-is-my-keurig-serial-number/",
+      "guid": "https://www.fluentincoffee.com/where-is-my-keurig-serial-number/",
+      "posted_at": "2026-11-03T04:29:23.193493",
+      "post_id": "102789815016785_1761543389311771",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-02",
-    "Fluent In Coffee": "2026-11-02"
+    "Full Coffee Roast": "2026-11-03",
+    "Fluent In Coffee": "2026-11-03"
   }
 }
