@@ -809,10 +809,28 @@
       "posted_at": "2026-11-03T21:21:21.980833",
       "post_id": "102789815016785_1762398852559558",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "10 Coffee Cocktails That Aren\u2019t an Espresso Martini (But Just as Good)",
+      "url": "https://www.fullcoffeeroast.com/coffee-cocktails/",
+      "guid": "https://www.fullcoffeeroast.com/?p=164985",
+      "posted_at": "2026-11-04T03:49:56.036416",
+      "post_id": "103230134934176_1445645384409402",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Best Budget Coffee Grinder: 5 Current Burr Picks",
+      "url": "https://www.fluentincoffee.com/best-budget-coffee-grinder/",
+      "guid": "http://fluent.onpressidium.com/?p=2507860",
+      "posted_at": "2026-11-04T03:49:56.036416",
+      "post_id": "102789815016785_1762700809196029",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-03",
-    "Fluent In Coffee": "2026-11-03"
+    "Full Coffee Roast": "2026-11-04",
+    "Fluent In Coffee": "2026-11-04"
   }
 }
