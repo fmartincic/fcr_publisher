@@ -863,10 +863,28 @@
       "posted_at": "2026-11-04T21:37:39.969663",
       "post_id": "102789815016785_1763665859099524",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "30 Best Coffee Shops In London For A Pick-Me-Up",
+      "url": "https://www.fullcoffeeroast.com/best-coffee-shops-in-london/",
+      "guid": "https://www.fullcoffeeroast.com/?p=155928",
+      "posted_at": "2026-11-05T04:08:16.801971",
+      "post_id": "103230134934176_1446664964307444",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "13 Coffee Brewing Methods: How to Choose the Best One",
+      "url": "https://www.fluentincoffee.com/coffee-brewing-methods-at-home/",
+      "guid": "http://52.23.101.202/?p=5017665",
+      "posted_at": "2026-11-05T04:08:16.801971",
+      "post_id": "102789815016785_1763985139067596",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-04",
-    "Fluent In Coffee": "2026-11-04"
+    "Full Coffee Roast": "2026-11-05",
+    "Fluent In Coffee": "2026-11-05"
   }
 }
