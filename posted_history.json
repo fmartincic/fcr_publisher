@@ -917,10 +917,28 @@
       "posted_at": "2026-11-05T21:40:29.118349",
       "post_id": "102789815016785_1764905088975601",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "13 Best Starbucks Winter Drinks For Comfort On Cold Mornings",
+      "url": "https://www.fullcoffeeroast.com/starbucks-winter-drinks/",
+      "guid": "https://www.fullcoffeeroast.com/?p=116129",
+      "posted_at": "2026-11-06T04:05:24.912928",
+      "post_id": "103230134934176_1447677497539524",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "What Is An Espresso Martini?",
+      "url": "https://www.fluentincoffee.com/what-is-an-espresso-martini/",
+      "guid": "http://52.23.101.202/?p=5018673",
+      "posted_at": "2026-11-06T04:05:24.912928",
+      "post_id": "102789815016785_1765211065611670",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-05",
-    "Fluent In Coffee": "2026-11-05"
+    "Full Coffee Roast": "2026-11-06",
+    "Fluent In Coffee": "2026-11-06"
   }
 }
