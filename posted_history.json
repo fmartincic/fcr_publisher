@@ -971,10 +971,28 @@
       "posted_at": "2026-11-06T21:09:27.819586",
       "post_id": "102789815016785_1766203455512431",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Green Tea Vs. Yerba Mate: Which Is For Me?",
+      "url": "https://www.fullcoffeeroast.com/green-tea-vs-yerba-mate/",
+      "guid": "https://www.fullcoffeeroast.com/?p=110054",
+      "posted_at": "2026-11-07T03:39:42.412023",
+      "post_id": "103230134934176_1448714200769187",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Best Flavored Coffee (Our Top 11 Delicious Picks)",
+      "url": "https://www.fluentincoffee.com/best-flavored-coffee/",
+      "guid": "http://fluent.onpressidium.com/?p=2508700",
+      "posted_at": "2026-11-07T03:39:42.412023",
+      "post_id": "102789815016785_1766518258814284",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-06",
-    "Fluent In Coffee": "2026-11-06"
+    "Full Coffee Roast": "2026-11-07",
+    "Fluent In Coffee": "2026-11-07"
   }
 }
