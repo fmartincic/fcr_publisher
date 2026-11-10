@@ -1115,10 +1115,28 @@
       "posted_at": "2026-11-09T17:57:01.845434",
       "post_id": "102789815016785_1769651751834268",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Nitrogen Infused Coffee Is The Next Big Thing",
+      "url": "https://www.fullcoffeeroast.com/nitrogen-infused-coffee/",
+      "guid": "https://www.fullcoffeeroast.com/?p=162921",
+      "posted_at": "2026-11-10T05:07:47.196822",
+      "post_id": "103230134934176_1452119840428623",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Can You Grind Coffee Beans In A Magic Bullet? (Pros & Cons)",
+      "url": "https://www.fluentincoffee.com/can-you-grind-coffee-beans-in-a-magic-bullet/",
+      "guid": "http://fluent.onpressidium.com/?p=3009066",
+      "posted_at": "2026-11-10T05:07:47.196822",
+      "post_id": "102789815016785_1770169261782517",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-09",
-    "Fluent In Coffee": "2026-11-09"
+    "Full Coffee Roast": "2026-11-10",
+    "Fluent In Coffee": "2026-11-10"
   }
 }
