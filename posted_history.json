@@ -1169,10 +1169,28 @@
       "posted_at": "2026-11-10T21:33:46.296936",
       "post_id": "102789815016785_1771082868357823",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "4 Types Of Fermented Tea You Need To Know",
+      "url": "https://www.fullcoffeeroast.com/types-of-fermented-tea/",
+      "guid": "https://www.fullcoffeeroast.com/?p=45321",
+      "posted_at": "2026-11-11T03:40:54.201770",
+      "post_id": "103230134934176_1453186433655297",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "How To Make Nitro Cold Brew: An Easy Recipe",
+      "url": "https://www.fluentincoffee.com/how-to-make-nitro-cold-brew/",
+      "guid": "http://fluent.onpressidium.com/?p=1503613",
+      "posted_at": "2026-11-11T03:40:54.201770",
+      "post_id": "102789815016785_1771385528327557",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-10",
-    "Fluent In Coffee": "2026-11-10"
+    "Full Coffee Roast": "2026-11-11",
+    "Fluent In Coffee": "2026-11-11"
   }
 }
