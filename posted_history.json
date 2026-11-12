@@ -1223,10 +1223,28 @@
       "posted_at": "2026-11-11T22:22:10.063364",
       "post_id": "102789815016785_1772431991556244",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Is Coffee Good for Pre-Workout?",
+      "url": "https://www.fullcoffeeroast.com/is-coffee-good-for-pre-workout/",
+      "guid": "https://www.fullcoffeeroast.com/?p=94589",
+      "posted_at": "2026-11-12T04:49:16.680761",
+      "post_id": "103230134934176_1454478270192780",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Kicking Horse Coffee Review: Worth the Hype?",
+      "url": "https://www.fluentincoffee.com/kicking-horse-coffee-review-is-this-canadian-dark-roast-worth-the-price/",
+      "guid": "http://127.0.0.1/?p=5033805",
+      "posted_at": "2026-11-12T04:49:16.680761",
+      "post_id": "102789815016785_1772733034859473",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-11",
-    "Fluent In Coffee": "2026-11-11"
+    "Full Coffee Roast": "2026-11-12",
+    "Fluent In Coffee": "2026-11-12"
   }
 }
