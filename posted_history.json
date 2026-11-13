@@ -1259,10 +1259,28 @@
       "posted_at": "2026-11-12T16:26:18.583502",
       "post_id": "102789815016785_1773366668129443",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "10 Best Sweet Tea Brands To Try",
+      "url": "https://www.fullcoffeeroast.com/best-sweet-tea-brands/",
+      "guid": "https://www.fullcoffeeroast.com/?p=50617",
+      "posted_at": "2026-11-13T03:59:36.403625",
+      "post_id": "103230134934176_1455584483415492",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Baratza Encore Vs Capresso Infinity: Which Is Better?",
+      "url": "https://www.fluentincoffee.com/baratza-encore-vs-capresso-infinity/",
+      "guid": "http://fluent.onpressidium.com/?p=1505330",
+      "posted_at": "2026-11-13T03:59:36.403625",
+      "post_id": "102789815016785_1773933928072717",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-12",
-    "Fluent In Coffee": "2026-11-12"
+    "Full Coffee Roast": "2026-11-13",
+    "Fluent In Coffee": "2026-11-13"
   }
 }
