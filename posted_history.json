@@ -1313,10 +1313,28 @@
       "posted_at": "2026-11-13T21:43:20.239197",
       "post_id": "102789815016785_1774932664639510",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Nespresso vs AeroPress \u2014 Which One Actually Wins",
+      "url": "https://www.fullcoffeeroast.com/nespresso-vs-aeropress-which-one-actually-wins/",
+      "guid": "https://www.fullcoffeeroast.com/?p=165174",
+      "posted_at": "2026-11-14T03:57:57.175871",
+      "post_id": "103230134934176_1456638319976775",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Best Thermal Coffee Maker: Our Top 9 Choices",
+      "url": "https://www.fluentincoffee.com/best-thermal-coffee-maker/",
+      "guid": "http://fluent.onpressidium.com/?p=2011",
+      "posted_at": "2026-11-14T03:57:57.175871",
+      "post_id": "102789815016785_1775247944607982",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-13",
-    "Fluent In Coffee": "2026-11-13"
+    "Full Coffee Roast": "2026-11-14",
+    "Fluent In Coffee": "2026-11-14"
   }
 }
