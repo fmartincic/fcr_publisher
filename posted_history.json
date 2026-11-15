@@ -1367,10 +1367,28 @@
       "posted_at": "2026-11-14T20:13:53.816576",
       "post_id": "102789815016785_1776191937846916",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "How to turn Espresso with Chocolate into Caff\u00e8 Mocha",
+      "url": "https://www.fullcoffeeroast.com/espresso-with-chocolate/",
+      "guid": "https://www.fullcoffeeroast.com/?p=67872",
+      "posted_at": "2026-11-15T03:42:39.405820",
+      "post_id": "103230134934176_1457822993191641",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "How to Reset a Nespresso Machine by Model (2026)",
+      "url": "https://www.fluentincoffee.com/how-to-reset-nespresso-machine/",
+      "guid": "http://fluent.onpressidium.com/?p=1504106",
+      "posted_at": "2026-11-15T03:42:39.405820",
+      "post_id": "102789815016785_1776539454478831",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-14",
-    "Fluent In Coffee": "2026-11-14"
+    "Full Coffee Roast": "2026-11-15",
+    "Fluent In Coffee": "2026-11-15"
   }
 }
