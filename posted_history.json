@@ -1457,10 +1457,28 @@
       "posted_at": "2026-11-16T17:39:25.440249",
       "post_id": "102789815016785_1778937284239048",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "How Tall Is A Coffee Cup?",
+      "url": "https://www.fullcoffeeroast.com/how-tall-is-a-coffee-cup/",
+      "guid": "https://www.fullcoffeeroast.com/?p=77556",
+      "posted_at": "2026-11-17T05:38:44.457055",
+      "post_id": "103230134934176_1459996102974330",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Is Nespresso Worth It? Pros And Cons Rundown",
+      "url": "https://www.fluentincoffee.com/is-nespresso-worth-it/",
+      "guid": "http://fluent.onpressidium.com/?p=1503964",
+      "posted_at": "2026-11-17T05:38:44.457055",
+      "post_id": "102789815016785_1779603014172475",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-16",
-    "Fluent In Coffee": "2026-11-16"
+    "Full Coffee Roast": "2026-11-17",
+    "Fluent In Coffee": "2026-11-17"
   }
 }
