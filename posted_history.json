@@ -1529,10 +1529,28 @@
       "posted_at": "2026-11-18T16:48:32.011931",
       "post_id": "102789815016785_1781558807310229",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Why Are Paper Coffee Cups Not Recyclable?",
+      "url": "https://www.fullcoffeeroast.com/why-are-paper-coffee-cups-not-recyclable/",
+      "guid": "https://www.fullcoffeeroast.com/?p=72072",
+      "posted_at": "2026-11-19T04:56:55.259646",
+      "post_id": "103230134934176_1461876629452944",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Nespresso Vs Espresso: Which One Is Better?",
+      "url": "https://www.fluentincoffee.com/nespresso-vs-espresso/",
+      "guid": "http://fluent.onpressidium.com/?p=1504154",
+      "posted_at": "2026-11-19T04:56:55.259646",
+      "post_id": "102789815016785_1782127730586670",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-18",
-    "Fluent In Coffee": "2026-11-18"
+    "Full Coffee Roast": "2026-11-19",
+    "Fluent In Coffee": "2026-11-19"
   }
 }
