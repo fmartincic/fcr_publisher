@@ -1565,10 +1565,28 @@
       "posted_at": "2026-11-19T16:55:10.945145",
       "post_id": "102789815016785_1782764420523001",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Bulletproof Vs. Lifeboost Coffee: Which Is For Me?",
+      "url": "https://www.fullcoffeeroast.com/bulletproof-vs-lifeboost-coffee/",
+      "guid": "https://www.fullcoffeeroast.com/?p=75300",
+      "posted_at": "2026-11-20T04:48:09.811510",
+      "post_id": "103230134934176_1462904106016863",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Nespresso Not Pumping Water: 7 Fixes That Actually Work",
+      "url": "https://www.fluentincoffee.com/nespresso-not-pumping-water/",
+      "guid": "https://www.fluentincoffee.com/nespresso-not-pumping-water/",
+      "posted_at": "2026-11-20T04:48:09.811510",
+      "post_id": "102789815016785_1783343750465068",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-19",
-    "Fluent In Coffee": "2026-11-19"
+    "Full Coffee Roast": "2026-11-20",
+    "Fluent In Coffee": "2026-11-20"
   }
 }
