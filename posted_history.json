@@ -1601,10 +1601,28 @@
       "posted_at": "2026-11-20T16:29:14.872758",
       "post_id": "102789815016785_1783982523734524",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Why Do Coffee Grinders Have Timers? Answered",
+      "url": "https://www.fullcoffeeroast.com/why-do-coffee-grinders-have-timers/",
+      "guid": "https://www.fullcoffeeroast.com/?p=43095",
+      "posted_at": "2026-11-21T04:42:39.027216",
+      "post_id": "103230134934176_1463950662578874",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "How to Clean the Keurig K\u2011Cafe Barista Bar Frother: Step\u2011by\u2011Step from the Use & Care Guide",
+      "url": "https://www.fluentincoffee.com/how-to-clean-k-cafe-barista-bar-frother/",
+      "guid": "https://www.fluentincoffee.com/how-to-clean-k-cafe-barista-bar-frother/",
+      "posted_at": "2026-11-21T04:42:39.027216",
+      "post_id": "102789815016785_1784573900342053",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-20",
-    "Fluent In Coffee": "2026-11-20"
+    "Full Coffee Roast": "2026-11-21",
+    "Fluent In Coffee": "2026-11-21"
   }
 }
