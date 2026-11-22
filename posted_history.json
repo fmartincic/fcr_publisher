@@ -1655,10 +1655,28 @@
       "posted_at": "2026-11-21T21:17:43.448402",
       "post_id": "102789815016785_1785403730259070",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Can You Use A Paper Towel As A Coffee Filter Substitute?",
+      "url": "https://www.fullcoffeeroast.com/paper-towel-as-a-coffee-filter/",
+      "guid": "https://www.fullcoffeeroast.com/?p=290",
+      "posted_at": "2026-11-22T03:57:15.995040",
+      "post_id": "103230134934176_1464937169146890",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Is It Cheaper To Grind Your Own Coffee? (4 Helpful Tips)",
+      "url": "https://www.fluentincoffee.com/is-it-cheaper-to-grind-your-own-coffee/",
+      "guid": "http://fluent.onpressidium.com/?p=2508423",
+      "posted_at": "2026-11-22T03:57:15.995040",
+      "post_id": "102789815016785_1785686280230815",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-21",
-    "Fluent In Coffee": "2026-11-21"
+    "Full Coffee Roast": "2026-11-22",
+    "Fluent In Coffee": "2026-11-22"
   }
 }
