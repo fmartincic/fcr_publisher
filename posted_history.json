@@ -1709,10 +1709,28 @@
       "posted_at": "2026-11-22T21:23:42.088852",
       "post_id": "102789815016785_1786560126810097",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "Coffee Grounds Vs. Coffee Grinds: What Are The Differences?",
+      "url": "https://www.fullcoffeeroast.com/coffee-grounds-vs-coffee-grinds/",
+      "guid": "https://www.fullcoffeeroast.com/?p=59389",
+      "posted_at": "2026-11-23T04:39:17.623011",
+      "post_id": "103230134934176_1466006542373286",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Costco Coffee vs Grocery Store: Is Buying Bulk Actually Worth It?",
+      "url": "https://www.fluentincoffee.com/costco-coffee-vs-grocery-store/",
+      "guid": "https://www.fluentincoffee.com/costco-coffee-vs-grocery-store/",
+      "posted_at": "2026-11-23T04:39:17.623011",
+      "post_id": "102789815016785_1786880053444771",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-22",
-    "Fluent In Coffee": "2026-11-22"
+    "Full Coffee Roast": "2026-11-23",
+    "Fluent In Coffee": "2026-11-23"
   }
 }
