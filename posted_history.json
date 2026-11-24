@@ -1745,10 +1745,28 @@
       "posted_at": "2026-11-23T19:38:25.047533",
       "post_id": "102789815016785_1787686683364108",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "How Long Does AeroPress Last?",
+      "url": "https://www.fullcoffeeroast.com/how-long-does-aeropress-last/",
+      "guid": "https://www.fullcoffeeroast.com/?p=114746",
+      "posted_at": "2026-11-24T07:30:31.307586",
+      "post_id": "103230134934176_1467162592257681",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Best Milk-Frothing Pitcher for Latte Art (2026)",
+      "url": "https://www.fluentincoffee.com/best-milk-frothing-pitcher/",
+      "guid": "http://fluent.onpressidium.com/?p=2506099",
+      "posted_at": "2026-11-24T07:30:31.307586",
+      "post_id": "102789815016785_1788222526643857",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-23",
-    "Fluent In Coffee": "2026-11-23"
+    "Full Coffee Roast": "2026-11-24",
+    "Fluent In Coffee": "2026-11-24"
   }
 }
