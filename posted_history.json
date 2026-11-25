@@ -1781,10 +1781,28 @@
       "posted_at": "2026-11-24T19:11:46.963210",
       "post_id": "102789815016785_1788886413244135",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "All-Fellow Pour-Over Kits: First Setup vs Premium Brew Station",
+      "url": "https://www.fullcoffeeroast.com/all-fellow-pour-over-kits-first-setup-vs-premium-brew-station/",
+      "guid": "https://www.fullcoffeeroast.com/?p=165971",
+      "posted_at": "2026-11-25T05:59:13.688114",
+      "post_id": "103230134934176_1468169458823661",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "The Best Coffee For Latte (Top 7 Picks & How To Choose)",
+      "url": "https://www.fluentincoffee.com/best-coffee-for-latte/",
+      "guid": "http://fluent.onpressidium.com/?p=3009468",
+      "posted_at": "2026-11-25T05:59:13.688114",
+      "post_id": "102789815016785_1789382733194503",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-24",
-    "Fluent In Coffee": "2026-11-24"
+    "Full Coffee Roast": "2026-11-25",
+    "Fluent In Coffee": "2026-11-25"
   }
 }
