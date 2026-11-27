@@ -1853,10 +1853,28 @@
       "posted_at": "2026-11-26T17:57:38.065116",
       "post_id": "102789815016785_1791276486338461",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "What Is A Vintage Tea Party?",
+      "url": "https://www.fullcoffeeroast.com/what-is-a-vintage-tea-party/",
+      "guid": "https://www.fullcoffeeroast.com/?p=45150",
+      "posted_at": "2026-11-27T05:46:42.749984",
+      "post_id": "103230134934176_1470294731944467",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Jura E8 Vs S8: Which One Should You Choose And Why?",
+      "url": "https://www.fluentincoffee.com/jura-e8-vs-s8/",
+      "guid": "http://fluent.onpressidium.com/?p=1002923",
+      "posted_at": "2026-11-27T05:46:42.749984",
+      "post_id": "102789815016785_1791830242949752",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-26",
-    "Fluent In Coffee": "2026-11-26"
+    "Full Coffee Roast": "2026-11-27",
+    "Fluent In Coffee": "2026-11-27"
   }
 }
