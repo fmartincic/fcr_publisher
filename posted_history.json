@@ -1889,10 +1889,28 @@
       "posted_at": "2026-11-27T17:43:04.853627",
       "post_id": "102789815016785_1792506902882086",
       "post_type": "automated"
+    },
+    {
+      "site": "Full Coffee Roast",
+      "title": "7 Brutal Truths About Brazilian Cafezinho: The Tiny Cup That Destroys Every American Coffee Myth",
+      "url": "https://www.fullcoffeeroast.com/7-brutal-truths-about-brazilian-cafezinho-the-tiny-cup-that-destroys-every-american-coffee-myth/",
+      "guid": "https://www.fullcoffeeroast.com/?p=164711",
+      "posted_at": "2026-11-28T05:26:39.504590",
+      "post_id": "103230134934176_1471326878507919",
+      "post_type": "automated"
+    },
+    {
+      "site": "Fluent In Coffee",
+      "title": "Dr Pepper vs Coffee: Caffeine, Flavor, and Which One Actually Wakes You Up",
+      "url": "https://www.fluentincoffee.com/dr-pepper-vs-coffee-caffeine/",
+      "guid": "http://127.0.0.1/dr-pepper-vs-coffee-caffeine/",
+      "posted_at": "2026-11-28T05:26:39.504590",
+      "post_id": "102789815016785_1793043606161749",
+      "post_type": "automated"
     }
   ],
   "last_post_date": {
-    "Full Coffee Roast": "2026-11-27",
-    "Fluent In Coffee": "2026-11-27"
+    "Full Coffee Roast": "2026-11-28",
+    "Fluent In Coffee": "2026-11-28"
   }
 }
